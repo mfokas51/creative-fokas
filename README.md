@@ -1,6 +1,7 @@
 # creative-fokas
 
-My name is Mike and I am just beginning to learn how to code. I started with Web Development and am hoping to further learn how to build websites 
-from content to action.
+My name is Mike and I am just beginning to scratch the surface in the world of coding and development.
 
-I'm going to be posting some of the samples with the goal of learning more and more.
+I figured i'd start with building websites since it's something I see and use everyday. 
+From there I'd like to learn SQL and other programming languages.
+
